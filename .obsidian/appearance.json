@@ -1,0 +1,13 @@
+{
+  "cssTheme": "mono black (monochrome, charcoal)",
+  "theme": "obsidian",
+  "accentColor": "#6e6388",
+  "nativeMenus": false,
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "tweaks"
+  ],
+  "showRibbon": true
+}

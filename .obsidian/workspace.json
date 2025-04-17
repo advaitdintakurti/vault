@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "b6ce100335a76bc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b288ecaf16e2220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f2b50d49cf4d33d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025/04/2025-04-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-18"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23b401e068527d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3cbdcced6ad7c84",
+        "type": "tabs",
+        "dimension": 70.08547008547008,
+        "children": [
+          {
+            "id": "2506edee6638e486",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b61dd113a2ffe43e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "86f9e3f02c94486f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0af36f4ee33b3df1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2c992ca320070dfa",
+        "type": "tabs",
+        "dimension": 29.91452991452992,
+        "children": [
+          {
+            "id": "960be612e071e160",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5086555480957
+  },
+  "right": {
+    "id": "80228d6c3f7dabbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c7e5536ab9f379",
+        "type": "tabs",
+        "dimension": 64.14708886618999,
+        "children": [
+          {
+            "id": "701efc6a388c45bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2025/04/2025-04-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-04-18"
+            }
+          },
+          {
+            "id": "793e202ccb92d87d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2025/04/2025-04-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-04-18"
+            }
+          },
+          {
+            "id": "73be4afd94f516b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "09bf8a6c8352c67b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2025/04/2025-04-18.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-04-18"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6dde3e2386c7ecc8",
+        "type": "tabs",
+        "dimension": 35.85291113381001,
+        "children": [
+          {
+            "id": "5a7851165eeda20d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "4f2b50d49cf4d33d",
+  "lastOpenFiles": [
+    "daily/2025/04/2025-04-18.md",
+    "daily/2025/04/2025-04-17.md",
+    "notes/cso/Instruction Set Architecture.md",
+    "notes/cso/End Lab Questions.md",
+    "notes/cso/Chapter 2.md",
+    "daily/2025/04",
+    "daily/2025",
+    "daily",
+    "daily/2025/04/2025-04-17-Thursday.md",
+    "daily/2025/04/2025-04-18-Friday.md",
+    "notes/cso/Pipelining.md",
+    "2025-04-17.md",
+    "projects/sctc-recruitment/Experience/Part 1.md",
+    "projects/sctc-recruitment/Tasks.md",
+    "projects/sctc-recruitment/Experience",
+    "projects/sctc-recruitment/Untitled.md",
+    "projects/sctc-recruitment/Timeline.md",
+    "projects/sctc-recruitment/Database/Index.md",
+    "projects/sctc-recruitment/API",
+    "projects/sctc-recruitment/Database",
+    "projects/sctc-recruitment",
+    "projects",
+    "cso/Chapter 1/Chapter 1.md",
+    "cso/Chapter 1/Cache and Memory Hierarchy.md",
+    "cso/Chapter 1/Amdahl's Law.md",
+    "cso/Chapter 3/Assembly View of Procesor State.md",
+    "dsa/Sets and Maps.md",
+    "cso/Chapter 2.md",
+    "dsa/Data Structures.md",
+    "dsa/index.md",
+    "cso/Chapter 3/Accessing Information.md",
+    "IIoT In-Class Activity.md",
+    "Pasted image 20250403223736.png",
+    "Pasted image 20250219213302.png",
+    "Pasted image 20250219221935.png",
+    "Pasted image 20250219213333.png",
+    "2025-04-15.md",
+    "cso/media/Pasted image 20250219182155.png",
+    "cso/media/Pasted image 20250219182115.png",
+    "cso/media/Pasted image 20250210142511.png",
+    "cso/media/Pasted image 20250210133503.png",
+    "cso/Pipelining.md",
+    "Pasted image 20250403223620.png",
+    "Pasted image 20250318104421.png",
+    "cso/Chapter 3",
+    "cso/Chapter 1",
+    "Untitled.canvas"
+  ]
+}

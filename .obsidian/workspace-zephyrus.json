@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "b6ce100335a76bc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e385683085a4045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb1c92e6a57a3e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpro/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23b401e068527d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3cbdcced6ad7c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2506edee6638e486",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b61dd113a2ffe43e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86f9e3f02c94486f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bdf08af6c104afb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80228d6c3f7dabbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c7e5536ab9f379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701efc6a388c45bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cpro/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "793e202ccb92d87d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cpro/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73be4afd94f516b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09bf8a6c8352c67b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cpro/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "eb1c92e6a57a3e11",
+  "lastOpenFiles": [
+    "cpro/Sorting Techniques.md",
+    "cpro/Sorting Techniques.md.partial",
+    "cpro/Pointers.md",
+    "cpro/Arrays.md",
+    "cpro/Assignment.md",
+    "cpro/printf().md",
+    "Excalidraw/canvas.md",
+    "Untitled.canvas",
+    "cpro/scanf().md",
+    "dsm/lab/Lab 1.md",
+    "dsm/lab",
+    "cpro/Type Casting.md",
+    "cpro/Bitwise Operators.md",
+    "cpro/Conditional Operators.md",
+    "cpro/Loops.md",
+    "cpro/Data Types.md",
+    "cpro/Basic Operators.md",
+    "cpro/Makefiles.md",
+    "cpro/Basics.md",
+    "Untitled",
+    "cpro/index.md",
+    "media/array.png",
+    "media/logo.png",
+    "media/images.jpg",
+    "cpro/Assignment.html",
+    "cpro/Conditional Operators.epub",
+    "cpro/Conditional Operators.html",
+    "dsm",
+    "Excalidraw",
+    "cpro",
+    "2024-08-26.md",
+    "templates/Note.md",
+    "templates",
+    "Missing.md",
+    "media/array.jpg",
+    "Lecture.md"
+  ]
+}

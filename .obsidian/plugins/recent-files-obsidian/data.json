@@ -1,0 +1,205 @@
+{
+  "recentFiles": [
+    {
+      "basename": "2025-04-18",
+      "path": "daily/2025/04/2025-04-18.md"
+    },
+    {
+      "basename": "2025-04-17",
+      "path": "daily/2025/04/2025-04-17.md"
+    },
+    {
+      "basename": "Instruction Set Architecture",
+      "path": "notes/cso/Instruction Set Architecture.md"
+    },
+    {
+      "basename": "End Lab Questions",
+      "path": "notes/cso/End Lab Questions.md"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "notes/cso/Chapter 2.md"
+    },
+    {
+      "basename": "Pipelining",
+      "path": "notes/cso/Pipelining.md"
+    },
+    {
+      "basename": "Chapter 1",
+      "path": "cso/Chapter 1/Chapter 1.md"
+    },
+    {
+      "basename": "Cache and Memory Hierarchy",
+      "path": "cso/Chapter 1/Cache and Memory Hierarchy.md"
+    },
+    {
+      "basename": "Amdahl's Law",
+      "path": "cso/Chapter 1/Amdahl's Law.md"
+    },
+    {
+      "basename": "Assembly View of Procesor State",
+      "path": "cso/Chapter 3/Assembly View of Procesor State.md"
+    },
+    {
+      "basename": "Sets and Maps",
+      "path": "dsa/Sets and Maps.md"
+    },
+    {
+      "basename": "iss",
+      "path": "dsa/iss.md"
+    },
+    {
+      "basename": "Instruction Set Architecture",
+      "path": "cso/Instruction Set Architecture.md"
+    },
+    {
+      "basename": "Graphs",
+      "path": "dsa/Graphs.md"
+    },
+    {
+      "basename": "index",
+      "path": "cpro/index.md"
+    },
+    {
+      "basename": "Heaps",
+      "path": "dsa/Heaps.md"
+    },
+    {
+      "basename": "Stack",
+      "path": "dsa/Stack.md"
+    },
+    {
+      "basename": "Binary Search Trees (BST)",
+      "path": "dsa/Binary Search Trees (BST).md"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "cso/Chapter 2.md"
+    },
+    {
+      "basename": "Sorting Algorithms",
+      "path": "dsa/Sorting Algorithms.md"
+    },
+    {
+      "basename": "Quicksort",
+      "path": "dsa/Quicksort.md"
+    },
+    {
+      "basename": "Merge Sort",
+      "path": "dsa/Merge Sort.md"
+    },
+    {
+      "basename": "Trees",
+      "path": "dsa/Trees.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "dsa/Queue.md"
+    },
+    {
+      "basename": "AVL Trees",
+      "path": "dsa/AVL Trees.md"
+    },
+    {
+      "basename": "Accessing Information",
+      "path": "cso/Chapter 3/Accessing Information.md"
+    },
+    {
+      "basename": "Turning C into Assembly Code",
+      "path": "cso/Chapter 3/Turning C into Assembly Code.md"
+    },
+    {
+      "basename": "Assembly",
+      "path": "cso/Assembly.md"
+    },
+    {
+      "basename": "Basic Sorting Algorithms",
+      "path": "cpro/Basic Sorting Algorithms.md"
+    },
+    {
+      "basename": "SET instructions and Conditional Branching",
+      "path": "cso/Chapter 3/SET instructions and Conditional Branching.md"
+    },
+    {
+      "basename": "Data Structures",
+      "path": "dsa/Data Structures.md"
+    },
+    {
+      "basename": "index",
+      "path": "dsa/index.md"
+    },
+    {
+      "basename": "Binary Search",
+      "path": "dsa/Binary Search.md"
+    },
+    {
+      "basename": "Chapter 3",
+      "path": "cso/Chapter 3/Chapter 3.md"
+    },
+    {
+      "basename": "Processor State and Conditional Codes",
+      "path": "cso/Chapter 3/Processor State and Conditional Codes.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "dsa/Introduction.md"
+    },
+    {
+      "basename": "Hashing",
+      "path": "dsa/Hashing.md"
+    },
+    {
+      "basename": "Fenwick Trees",
+      "path": "dsa/Fenwick Trees.md"
+    },
+    {
+      "basename": "Importance of Abstractions",
+      "path": "cso/Chapter 1/Importance of Abstractions.md"
+    },
+    {
+      "basename": "Concurrency and Parallelism",
+      "path": "cso/Chapter 1/Concurrency and Parallelism.md"
+    },
+    {
+      "basename": "Networks",
+      "path": "cso/Chapter 1/Networks.md"
+    },
+    {
+      "basename": "Operating Systems and their Abstractions",
+      "path": "cso/Chapter 1/Operating Systems and their Abstractions.md"
+    },
+    {
+      "basename": "Running `hello`",
+      "path": "cso/Chapter 1/Running `hello`.md"
+    },
+    {
+      "basename": "Hardware Organization",
+      "path": "cso/Chapter 1/Hardware Organization.md"
+    },
+    {
+      "basename": "Compilation Flow",
+      "path": "cso/Chapter 1/Compilation Flow.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "cso/Chapter 1/Introduction.md"
+    },
+    {
+      "basename": "index",
+      "path": "cso/index.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "cso/Introduction.md"
+    },
+    {
+      "basename": "Syllabus",
+      "path": "cso/Syllabus.md"
+    },
+    {
+      "basename": "Grading",
+      "path": "cso/Grading.md"
+    }
+  ],
+  "omittedPaths": []
+}
