@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9b288ecaf16e2220",
+        "id": "e30abf469f600cee",
         "type": "tabs",
         "children": [
           {
-            "id": "4f2b50d49cf4d33d",
+            "id": "d40efad889f6081d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025/04/2025-04-18.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-04-18"
+              "title": "New tab"
             }
           }
         ]
@@ -123,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2025/04/2025-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-04-18"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2025/04/2025-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-04-18"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,17 +165,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025/04/2025-04-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-18"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2ce00be733ef4cee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "6dde3e2386c7ecc8",
@@ -223,10 +226,15 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "4f2b50d49cf4d33d",
+  "active": "2506edee6638e486",
   "lastOpenFiles": [
+    "daily/2025/04/2025-04-20.md",
     "daily/2025/04/2025-04-18.md",
     "daily/2025/04/2025-04-17.md",
+    "daily/2025/04/2025-04-19.md",
+    "templates/daily.md",
+    "2025-04-20.md",
+    "templates",
     "notes/cso/Instruction Set Architecture.md",
     "notes/cso/End Lab Questions.md",
     "notes/cso/Chapter 2.md",
@@ -255,22 +263,17 @@
     "cso/Chapter 2.md",
     "dsa/Data Structures.md",
     "dsa/index.md",
-    "cso/Chapter 3/Accessing Information.md",
-    "IIoT In-Class Activity.md",
     "Pasted image 20250403223736.png",
     "Pasted image 20250219213302.png",
     "Pasted image 20250219221935.png",
     "Pasted image 20250219213333.png",
-    "2025-04-15.md",
     "cso/media/Pasted image 20250219182155.png",
     "cso/media/Pasted image 20250219182115.png",
     "cso/media/Pasted image 20250210142511.png",
     "cso/media/Pasted image 20250210133503.png",
-    "cso/Pipelining.md",
     "Pasted image 20250403223620.png",
     "Pasted image 20250318104421.png",
     "cso/Chapter 3",
-    "cso/Chapter 1",
     "Untitled.canvas"
   ]
 }

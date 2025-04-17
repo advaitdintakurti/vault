@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-04-20",
+      "path": "daily/2025/04/2025-04-20.md"
+    },
+    {
       "basename": "2025-04-18",
       "path": "daily/2025/04/2025-04-18.md"
     },
     {
       "basename": "2025-04-17",
       "path": "daily/2025/04/2025-04-17.md"
+    },
+    {
+      "basename": "2025-04-19",
+      "path": "daily/2025/04/2025-04-19.md"
+    },
+    {
+      "basename": "daily",
+      "path": "templates/daily.md"
     },
     {
       "basename": "Instruction Set Architecture",
@@ -187,18 +199,6 @@
     {
       "basename": "index",
       "path": "cso/index.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "cso/Introduction.md"
-    },
-    {
-      "basename": "Syllabus",
-      "path": "cso/Syllabus.md"
-    },
-    {
-      "basename": "Grading",
-      "path": "cso/Grading.md"
     }
   ],
   "omittedPaths": []
